@@ -1,0 +1,18 @@
+{
+  "name": "my-plotly-app",
+  "private": true,
+  "version": "0.0.0",
+  "type": "module",
+  "scripts": {
+    "start": "vite",
+    "dev": "vite",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "plotly.js": "2.29.1",
+    "regl-line2d": "3.1.2"
+  },
+  "devDependencies": {
+    "vite": "^5.1.4"
+  }
+}
